@@ -1,0 +1,16 @@
+digraph "C:/Da_Projects/DA_project"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_78ce971e0696c488a3a509d8e5200a39 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="Da_Projects", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_78ce971e0696c488a3a509d8e5200a39.html",tooltip=""]
+  subgraph clusterdir_e006a09865e6a8f3603bb2f664fa433a {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_e006a09865e6a8f3603bb2f664fa433a.html",tooltip=""]
+    dir_e006a09865e6a8f3603bb2f664fa433a [shape=plaintext, label="DA_project"];
+  dir_3be1993728a405ff15a8b83160105eb2 [label="RailroadNetworkManagement", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3be1993728a405ff15a8b83160105eb2.html",tooltip=""];
+  }
+  }
+}

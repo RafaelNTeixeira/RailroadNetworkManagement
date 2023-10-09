@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="dbbd894a-987e-4da0-b46d-a015cd29ca10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DA - Projeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Da_Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Algorithms.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Algorithms.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Doxyfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/FileManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/FileManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Files/colored.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Files/network.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Files/stations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Menu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Menu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Network.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Network.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Station.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Station.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/Graph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/Graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/Heap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/Heap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/MutablePriorityQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/UFDS.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/UFDS.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/VertexEdge.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/data_structures/VertexEdge.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Trabalho.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Trabalho.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+=======
+    <list default="true" id="993dc196-706f-498f-a264-2edb9d3db837" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Algorithms.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Algorithms.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Menu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DA_project/RailroadNetworkManagement/Menu.cpp" afterDir="false" />
+>>>>>>> f1a3d4225eb095753c0fc1a7e63afc9eb485dde7
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="2NvLI2Ntzl0bjtQNuULYS3qwiGF" />
+=======
+  <component name="ProjectId" id="2NxJb6QdoW7Mr41uG4Aeln8CACx" />
+>>>>>>> f1a3d4225eb095753c0fc1a7e63afc9eb485dde7
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/JP/FEUP/Trabalho/DA_project/RailroadNetworkManagement",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbbd894a-987e-4da0-b46d-a015cd29ca10" name="Changes" comment="" />
+      <created>1680539525801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680539525801</updated>
+      <workItem from="1680539527257" duration="227000" />
+      <workItem from="1680539801109" duration="62000" />
+      <workItem from="1680539946766" duration="33000" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="993dc196-706f-498f-a264-2edb9d3db837" name="Changes" comment="" />
+      <created>1680599867725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680599867725</updated>
+      <workItem from="1680599869221" duration="5068000" />
+      <workItem from="1680605038103" duration="57000" />
+>>>>>>> f1a3d4225eb095753c0fc1a7e63afc9eb485dde7
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
